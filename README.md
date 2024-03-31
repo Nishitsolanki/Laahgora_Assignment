@@ -1,1 +1,6 @@
-# Laahgora_Assignment
+
+project start backend
+
+cd  Laahgora_Assignment
+
+npm start 
